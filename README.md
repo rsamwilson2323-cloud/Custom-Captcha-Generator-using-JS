@@ -77,30 +77,30 @@ git clone https://github.com/rsamwilson2323-cloud/Custom-Captcha-Generator.git
 
 ---
 
-## 👨‍💻 Author
+# ⭐ Support
+
+If you like this project:
+
+⭐ Star the repository
+
+🔁 Share it with others
+
+💬 Provide feedback
+
+---
+
+# 👨‍💻 Author
 
 **Sam Wilson**
 
-🎓 B.E CSE (AI & ML)
+🌐 GitHub
+https://github.com/rsamwilson2323-cloud
 
-💻 Web Developer | Python Developer
-
-🌟 Passionate about Frontend Development and Creative Web Applications
-
----
-
-## ⭐ Support
-
-If you found this project useful:
-
-🌟 Star the repository
-
-🍴 Fork the project
-
-📢 Share with others
+💼 LinkedIn
+https://www.linkedin.com/in/sam-wilson-14b554385
 
 ---
 
-<p align="center">
-Made with ❤️ by Sam Wilson
-</p>
+# 📜 License
+
+This project is licensed under the **MIT License**.
